@@ -22,7 +22,7 @@ const projects = [
    {
      id: nanoid(),
      title: 'FoodiePoint.',
-     img: '/imgs/projects/FoodDel',
+     img: '/imgs/projects/FoodDel.png',
      desc: "A food delivery App built using Reactjs",
      technologies: ['React.js', 'CSS', 'HTML'],
      github: 'https://github.com/Vaibhavpan02/Food-Delivery',
