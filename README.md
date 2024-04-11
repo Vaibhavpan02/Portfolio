@@ -2,11 +2,6 @@
 # Personal portfolio
 This is my personal portfolio website where on can know more about my work and achievements.
 
-## Live Preview
-![live website screenshot](https://raw.githubusercontent.com/DineshRout779/my-portfolio/main/public/imgs/projects/ss.png)
-
-To view the live website click [here](https://dineshrout.netlify.app/)
-
 
 ## Tech Stack
 - React
@@ -15,7 +10,7 @@ To view the live website click [here](https://dineshrout.netlify.app/)
 ## How to use
 1. Clone the repo
 ``` bash
-git clone https://github.com/DineshRout779/my-portfolio
+git clone
 ```
 
 2. Install dependencies
