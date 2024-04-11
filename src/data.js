@@ -4,7 +4,7 @@ const projects = [
    {
      id: nanoid(),
      title: 'V-ESTATE Website',
-     img: '/imgs/projects/',
+     img: '/imgs/projects/estate.png',
      desc: ' ',
      technologies: ['React.js', 'Sass CSS'],
      github: 'https://github.com/Vaibhavpan02/e-state-website',
@@ -13,7 +13,7 @@ const projects = [
   {
      id: nanoid(),
      title: 'Foodie',
-     img: '',
+     img: '/imgs/projects/Recipe.png',
      desc: 'React js food recipe app',
      technologies: ['React.js', 'Node.js', 'MongoDB', 'Express'],
      github: 'https://github.com/Vaibhavpan02/Recipe',
@@ -22,7 +22,7 @@ const projects = [
    {
      id: nanoid(),
      title: 'FoodiePoint.',
-     img: '',
+     img: '/imgs/projects/FoodDel',
      desc: "A food delivery App built using Reactjs",
      technologies: ['React.js', 'CSS', 'HTML'],
      github: 'https://github.com/Vaibhavpan02/Food-Delivery',
