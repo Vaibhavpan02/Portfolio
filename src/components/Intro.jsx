@@ -22,7 +22,7 @@ const Intro = () => {
             <Bio>
               Passionate about Technoloy and Startups | Life long learner
             </Bio>
-            <HighlightedLink href="https://drive.google.com/file/d/1ZCOpczGVjYZeDHkdJCETB2g8yaYbckP2/view?usp=drive_link" target='_blank'>
+            <HighlightedLink href="https://drive.google.com/file/d/1LLlqeTLp_eo3Yrk5oIKROWkv6h2wfqUx/view?usp=sharing" target='_blank'>
               Download Resume <FiDownload />
             </HighlightedLink>
             <IconsWrapper>
