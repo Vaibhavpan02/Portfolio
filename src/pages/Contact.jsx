@@ -53,7 +53,7 @@ const Contact = () => {
           <Heading>Contact</Heading>
 
           <Text>
-            I'm currently looking for frontend internships at startups. Have an
+            I'm currently looking for web development job role. Have an
             opening? Please reach out to me.
           </Text>
 
